@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "51157833a0ad129b",
+    "type": "split",
+    "children": [
+      {
+        "id": "11656e664ceee84c",
+        "type": "tabs",
+        "dimension": 38.059701492537314,
+        "children": [
+          {
+            "id": "b4056fee43b508e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "라이브러리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "라이브러리"
+            }
+          }
+        ]
+      },
+      {
+        "id": "239c9b00044b8d21",
+        "type": "tabs",
+        "dimension": 61.940298507462686,
+        "children": [
+          {
+            "id": "38b5b5c3e8912854",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradle.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gradle"
+            }
+          },
+          {
+            "id": "0d0fd0aa26a8a175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ApplicationContext.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ApplicationContext"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf70072b03edb892",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f79ca30525d5ed7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48545ef051f8552f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ec64dfe50c1dd4ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "4354315925e43468",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d719d82331e01c5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce3a668d14cb5eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fafdf4ea1b2732f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "무제.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "무제 의 백링크"
+            }
+          },
+          {
+            "id": "c2d1e2a4b2bb80dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "무제.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "무제 의 나가는 링크"
+            }
+          },
+          {
+            "id": "cc52b6aa7fbc47ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "191f645aec6fdf0d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ApplicationContext.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ApplicationContext 의 개요"
+            }
+          },
+          {
+            "id": "3c55ea5399a49fdb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0d0fd0aa26a8a175",
+  "lastOpenFiles": [
+    "라이브러리.md",
+    "무제.canvas",
+    "무제.md",
+    "무제",
+    "ApplicationContext.md",
+    "스프링 컨테이너.md",
+    "Gradle.md",
+    "빌드 관리 도구.md",
+    "Maven.md",
+    "다형성.md",
+    "Spring.md",
+    "DSL.md",
+    "AOP.md",
+    "DIP.md",
+    "DI.md",
+    "IoC.md",
+    "ISP.md",
+    "LSP.md",
+    "OCP.md",
+    "프레임워크.md",
+    "객체 지향.md",
+    "다형성_설명.png",
+    "SOLID.md",
+    "2025-05-09.md",
+    "SRP.md",
+    "create a link.md"
+  ]
+}
