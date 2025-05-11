@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApplicationContext.md",
-                "mode": "preview",
+                "file": "백엔드/객체 지향.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ApplicationContext"
+              "title": "객체 지향"
             }
           },
           {
@@ -73,7 +73,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "d719d82331e01c5a",
@@ -196,56 +195,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c55ea5399a49fdb",
+  "active": "48545ef051f8552f",
   "lastOpenFiles": [
-    "BeanRactory.md",
-    "ApplicationContext.md",
-    "Pasted image 20250509123953.png",
-    "스프링 빈 의존관계 설정 - 의존관계 주입.png",
+    "백엔드",
+    "백엔드/BeanRactory.md",
+    "백엔드/ApplicationContext.md",
+    "백엔드/Pasted image 20250509123953.png",
+    "백엔드/스프링 빈 의존관계 설정 - 의존관계 주입.png",
     "Pasted image 20250509115252.png",
-    "스프링 컨테이너.md",
-    "스프링 컨테이너 생성.png",
-    "스프링 빈 의존관계 설정 - 빈 생성.png",
-    "스프링 빈 등록.png",
+    "백엔드/스프링 컨테이너.md",
+    "백엔드/스프링 컨테이너 생성.png",
+    "백엔드/스프링 빈 의존관계 설정 - 빈 생성.png",
+    "백엔드/스프링 빈 등록.png",
     "새 텍스트 문서.txt",
     "새 폴더",
-    "객체 지향의 이해.canvas",
-    "LSP.md",
-    "OCP.md",
-    "Gradle.md",
-    "라이브러리.md",
-    "ISP.md",
-    "SOLID.md",
-    "객체 지향.md",
+    "백엔드/객체 지향의 이해.canvas",
+    "백엔드/LSP.md",
+    "백엔드/OCP.md",
+    "백엔드/Gradle.md",
+    "백엔드/라이브러리.md",
+    "백엔드/ISP.md",
+    "백엔드/SOLID.md",
+    "백엔드/객체 지향.md",
     "무제.md",
     "무제",
-    "빌드 관리 도구.md",
-    "Maven.md",
-    "다형성.md",
-    "Spring.md",
-    "DSL.md",
-    "AOP.md",
-    "DIP.md",
-    "DI.md",
-    "IoC.md",
-    "프레임워크.md",
-    "다형성_설명.png",
+    "백엔드/빌드 관리 도구.md",
+    "백엔드/Maven.md",
+    "백엔드/다형성.md",
+    "백엔드/Spring.md",
+    "백엔드/DSL.md",
+    "백엔드/AOP.md",
+    "백엔드/DIP.md",
+    "백엔드/DI.md",
+    "백엔드/IoC.md",
+    "백엔드/프레임워크.md",
+    "백엔드/다형성_설명.png",
     "2025-05-09.md",
-    "SRP.md",
+    "백엔드/SRP.md",
     "create a link.md"
   ]
 }
