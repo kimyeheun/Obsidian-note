@@ -3,13 +3,13 @@
 
 - 인터페이스임
 + 구현체 : `AnnotationConfigApplicationContext`
-+ [[BeanRactory]] (interface) 를 상속받아 기능을 제공한다. 
++ [[BeanFactory]] (interface) 를 상속받아 기능을 제공한다. 
 + 빈의 관리, 조회 이외의 부가기능이 있다. 
 	+ 메시지 소스를 활용한 **국제화 기능** (ex. 한국에서는 한국어로, 영어권에서는 영어로 출력)
 	+ **환경변수** - 로컬, 개발, 운영 등을 구분해서 처리 (EnvironmentCapable)
 	+ **애플리케이션 이벤트** (ApplicationEventPublisher)
 	+ 편리한 **리소스 조회** (ResourceLoader)
-
++ 스프링 빈 설정 메타 정보: [[BeanDefinition]]
 ### 1. 스프링 컨테이너 생성 
 + `new AnnotaionConfigApplicationContext(AppConfig.class)`
 + 스프링 컨테이너를 생성할 때는 구성 정보를 지정해주어야 함. 
